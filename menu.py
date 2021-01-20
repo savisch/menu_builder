@@ -1,4 +1,5 @@
 import random
+from icecream import ic
 
 breakfast = ["eggs", "bacon", "oats"]
 lunch = ["burrito", "quesadilla", "burger"]
